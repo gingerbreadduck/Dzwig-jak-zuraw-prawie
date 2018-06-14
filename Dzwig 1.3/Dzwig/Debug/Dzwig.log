@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  Dzwig.cpp
+c:\users\robert\desktop\dzwig-jak-zuraw-prawie-master\dzwig 1.2\dzwig\dzwig.cpp(45): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+c:\users\robert\desktop\dzwig-jak-zuraw-prawie-master\dzwig 1.2\dzwig\dzwig.cpp(87): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\robert\desktop\dzwig-jak-zuraw-prawie-master\dzwig 1.2\dzwig\dzwig.cpp(74): error C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_wstdio.h(1822): note: zobacz deklarację „swprintf”
+c:\users\robert\desktop\dzwig-jak-zuraw-prawie-master\dzwig 1.2\dzwig\dzwig.cpp(203): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\robert\desktop\dzwig-jak-zuraw-prawie-master\dzwig 1.2\dzwig\dzwig.cpp(291): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\robert\desktop\dzwig-jak-zuraw-prawie-master\dzwig 1.2\dzwig\dzwig.cpp(302): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\robert\desktop\dzwig-jak-zuraw-prawie-master\dzwig 1.2\dzwig\dzwig.cpp(335): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\robert\desktop\dzwig-jak-zuraw-prawie-master\dzwig 1.2\dzwig\dzwig.cpp(366): warning C4805: "==": niebezpieczne połączenie typu "BOOL" oraz typu "bool" w operacji
+c:\users\robert\desktop\dzwig-jak-zuraw-prawie-master\dzwig 1.2\dzwig\dzwig.cpp(234): warning C4101: "wmEvent": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\robert\desktop\dzwig-jak-zuraw-prawie-master\dzwig 1.2\dzwig\dzwig.cpp(234): warning C4101: "wmId": lokalna zmienna, do której nie istnieje odwołanie
